@@ -1,4 +1,3 @@
-
 nama = input("masukkan nama: ") #memasukkan sebuah nama
 
 def laki(n): #menghitung kemunculan huruf yg biasanya pada laki - laki
@@ -43,3 +42,5 @@ elif perempuan(nama)==laki(nama):
     print("waduh kelamin ganda hehe")
 else:
     print("UnDefined")
+    
+#kesimpulan = cara tersebut dapat digunakan namun untuk beberapa nama sangatlah tidak akurat
